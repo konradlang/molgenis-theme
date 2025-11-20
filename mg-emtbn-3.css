@@ -7770,8 +7770,7 @@ body>.container-fluid {
 }
 .mod-dataexplorer #entity-class>.row .col-md-7 {
   overflow:hidden;
-  text-overflow:ellipsis;
-  white-space:nowrap
+  text-overflow:ellipsis
 }
 .mod-dataexplorer .edit-settings {
   font-size:2rem;
